@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome
+
+<a href="https://app.daily.dev/d14mndz"><img src="https://github.com/d14mndz/d14mndz/blob/master/devcard.svg" width="400" alt="d14mndz's Dev Card"/></a>
 
 <!--
 **d14mndz/d14mndz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
